@@ -1,4 +1,4 @@
-## **End-to-End Car Sales Analytics Pipeline with Incremental Loading & Power BI Dashboard**
+## **Incremental Data Processing Pipeline with SCD Type 1 Implementation**
 <br>
 
 ### **Objective** 
